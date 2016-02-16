@@ -7,4 +7,4 @@ gem 'openproject-meeting',    :git => 'https://github.com/finnlabs/openproject-m
 gem 'openproject-costs',      :git => 'https://github.com/finnlabs/openproject-costs.git',      :branch => 'stable/5'
 gem "openproject-themes-dark", git: "https://github.com/finnlabs/openproject-themes-dark.git", :branch => "stable/5"
 gem "openproject-webhooks", :git => 'https://github.com/finnlabs/openproject-webhooks.git', :branch => 'stable/5'
-gem "openproject-github_integration", :git => 'https://github.com/finnlabs/openproject-github_integration.git', :branch => 'stable'
+gem "openproject-github_integration", :git => 'https://github.com/finnlabs/openproject-github_integration.git', :branch => 'stable/5'
