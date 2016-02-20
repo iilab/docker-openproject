@@ -8,3 +8,8 @@ gem 'openproject-costs',      :git => 'https://github.com/finnlabs/openproject-c
 gem "openproject-themes-dark", git: "https://github.com/finnlabs/openproject-themes-dark.git", :branch => "stable/5"
 gem "openproject-webhooks", :git => 'https://github.com/finnlabs/openproject-webhooks.git', :branch => 'stable/5'
 gem "openproject-github_integration", :git => 'https://github.com/finnlabs/openproject-github_integration.git', :branch => 'stable/5'
+gem 'openproject-my_project_page', git: 'https://github.com/finnlabs/openproject-my_project_page.git', :branch => 'stable/5'
+gem 'openproject-announcements', git: 'https://github.com/finnlabs/openproject-announcements.git', :branch => 'stable/5'
+gem 'openproject-documents', git: 'https://github.com/opf/openproject-documents.git', :branch => 'stable/5'
+gem 'openproject-help_link', git: 'https://github.com/finnlabs/openproject-help_link.git', :branch => 'stable/5'
+gem 'openproject-local_avatars', git: 'https://github.com/finnlabs/openproject-local_avatars', :branch => 'stable/5'
